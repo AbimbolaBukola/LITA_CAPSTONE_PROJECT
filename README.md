@@ -28,5 +28,21 @@ EDA involved exploring of the Data to answer some questions about the Data such 
 - What is the Average Sales per product and total revenue by Region
 - What is the Highest-selling Product by total sales value
 - What is the total revenue per product
+### Data Analysis
+---
+---SQL
+-- The total sales for each product category--
+
+SELECT [Product] , SUM([Total Sales]) AS Total_Sales
+FROM[dbo].[SalesData$]
+Group By Product
+----
+
+---The number of sales transactions in each region--
+SELECT [Region] , count( [Total Sales]) AS Total_Sales_Count
+FROM[dbo].[SalesData$]
+Group By [Region]
+---
+
 
   
