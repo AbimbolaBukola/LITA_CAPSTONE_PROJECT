@@ -12,8 +12,21 @@ The primary source of data used here is Data Sales.xsl, which is open data that 
 
 ### Tools Used
 
-- Ms Excel (for data Cleaning and Analysis )
+- Ms. Excel (for data Cleaning and Analysis )
 - SQL Server ( For Querying Data and Analysis)
 - Power BI (for Data Visualization)
+### Data Cleaning and Preparation
+
+In the initial phase of the Data Cleaning and preparation, the following actions were performed:
+1. Data loading and inspection
+2. Handling empty variables
+3. data cleaning and formatting
+### Exploratory Data Analysis
+
+EDA involved exploring of the Data to answer some questions about the Data such as:
+- What is the Total Sales by product , Region and Month
+- What is the Average Sales per product and total revenue by Region
+- What is the Highest-selling Product by total sales value
+- What is the total revenue per product
 
   
