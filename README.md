@@ -45,6 +45,7 @@ Group By [Region]
 ---
 ### Data Visualization
 
-![PIVOT TABLE](https://github.com/user-attachments/assets/a6cba617-354a-40dc-9c1d-20cc2ff04309)
+
+
 
   
