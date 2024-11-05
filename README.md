@@ -8,7 +8,7 @@ This data analysis aims to generate insight into a Retail store's sales performa
 
 ### Data Sources
 ---
-The primary source of data used here is Data Sales.xsl, which is open data that can be freely downloaded from an open source online or any other data repository site.
+The primary data source used here is Data Sales.xsl, which is open data that can be freely downloaded from an open source online or any other data repository site.
 
 ### Tools Used
 
