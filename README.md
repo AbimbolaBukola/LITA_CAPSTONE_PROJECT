@@ -64,5 +64,11 @@ Group By [Region]
 
 ![Retail store performance](https://github.com/user-attachments/assets/b4858ed3-a7e4-48fe-99d1-dcfe0805ba52)
 
+###Insights
+---
+Based on the Sales data, the top-performing product from the analysis is Shoes, which account for over 3.1 million of the total sales. However, the contribution per Region to Total sales totals South 44.1%, East 23.14%, North 23.14%, and West 14.29%, respectively.
+In addition, the trend of the Sum of Quantity by product shows that Jackets are the least demanded product.
+
+
 
   
