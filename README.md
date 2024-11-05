@@ -45,7 +45,9 @@ Group By [Region]
 ---
 ### Data Visualization
 
+![PIVOT TABLE](https://github.com/user-attachments/assets/6d7a4270-ff19-434e-9973-83d54e4b4f1c)
 
+![Retail store performance](https://github.com/user-attachments/assets/b4858ed3-a7e4-48fe-99d1-dcfe0805ba52)
 
 
   
